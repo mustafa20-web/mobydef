@@ -1,0 +1,33 @@
+.hero{
+    color:crimson;
+    font-size: 64px;
+    text-align: center;
+    font-weight:bolder
+}
+.dragon{
+    background-color: aquamarine;
+}
+
+.eagle{
+    padding:8px; 
+    margin: 6px;
+    border: 1px solid hsl(258, 94%, 46%)
+}
+
+.master{
+    width: 80px;
+    height: 100px;
+    background-color: red;
+    color:white;
+    font-size: large;
+    overflow: scroll;
+    image-align:center
+}
+
+
+
+
+
+
+
+
