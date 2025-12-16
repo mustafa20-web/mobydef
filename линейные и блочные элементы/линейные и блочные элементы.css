@@ -1,0 +1,12 @@
+.toBlock{display: block;
+}
+.toInLine{display: inline;
+}
+.container{
+    margin: 35px;
+    display: block;
+}
+.bl{
+    margin: auto;
+    display: block;
+}
