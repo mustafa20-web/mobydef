@@ -1,0 +1,30 @@
+button:hover {
+   background-color: #1988fe;
+
+}
+input:focus {
+   border-color: #1cfa45;
+}
+.seeker:first-child{
+    border: 1px solid blue;
+
+}
+.seeker:last-child{
+    background-color: aqua;
+    
+}
+.helicopter:hover{background-color: burlywood;}
+.earth:focus{color: cadetblue;}
+.gear:first-child{text-shadow: purple;}
+.gear:hover{
+    color: #1988fe;
+}
+
+.child:nth-child(odd){
+    color: cadetblue;
+    background-color: cornflowerblue;
+}
+.fur:first-child:hover{
+    background-color: blueviolet;
+}
+.fur:last-child:focus{color: chartreuse;}
